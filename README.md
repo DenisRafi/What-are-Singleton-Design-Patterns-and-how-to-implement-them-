@@ -1,0 +1,1 @@
+# What-are-Singleton-Design-Patterns-and-how-to-implement-them-
